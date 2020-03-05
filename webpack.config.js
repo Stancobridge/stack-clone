@@ -3,7 +3,7 @@ const path = require("path");
 
 // export the config
 module.exports = {
-  mode: "development",
+  mode: "production",
   entry: "./src/stackoverflow/index.js",
 
   output: {
